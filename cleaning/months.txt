@@ -1,0 +1,12 @@
+# General terms in Malay seperated by /
+Januari/January
+Februari/February
+Oktober/October
+Disember/December
+# General terms in Indonesian seperated by /
+Maret/March
+Mei/May
+Juni/June
+Juli/July
+Agustus/August
+Desember/December

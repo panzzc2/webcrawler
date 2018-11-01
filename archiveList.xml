@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<querySeq>
+	
+	<query endD="" endM="" endY="" source="utusanDaily" startD="16" startM="12" startY="2014" />
+	<query endD="" endM="" endY="" source="beritasatu" startD="16" startM="12" startY="2014" />
+	<query endD="" endM="" endY="" source="toiMonthly" startD="1" startM="1" startY="2015" />
+	
+</querySeq>

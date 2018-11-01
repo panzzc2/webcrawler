@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<querySeq>
+	<!--<query endD="" endM="" endY="" source="utusan" startD="9" startM="10" startY="2014" />-->
+	<query endD="28" endM="10" endY="2010" source="beritasatu" startD="26" startM="10" startY="2010" />
+</querySeq>

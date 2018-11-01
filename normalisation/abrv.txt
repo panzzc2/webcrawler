@@ -1,0 +1,32 @@
+# General terms seperated by /
+RM/Ringgit 
+En\./Encik
+Pn\./Puan
+Dr\./Doktor
+Prof\./Profesor
+Hj\./Haji
+Mohd\./Mohamad
+Md\./Mohamad
+Abd\./Abdul
+bt\./binti
+s\.a\.w\./Sallallahu Alaihi Wasallam
+Bt\./Batu
+Jln\./Jalan
+Sdn\./Sendirian
+Bhd\./Berhad
+Corp\./Corporation
+Pte\./Private
+Ltd\./Limited
+Inc\./Incorporated
+
+Jan\./Januari
+Feb\./Februari
+Apr\./April
+Sept\./September
+Okt\./Oktober
+Nov\./November
+Dis\./Disember
+
+# Topic related terms
+MH370/M H Tiga Tujuh Kosong
+1Malaysia/Satu Malaysia
